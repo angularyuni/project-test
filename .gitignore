@@ -49,3 +49,6 @@ Temporary Items
 # Directories node modules and typings
 node_modules/
 typings/
+
+# log files
+*.log
